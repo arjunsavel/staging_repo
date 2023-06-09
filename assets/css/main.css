@@ -128,6 +128,8 @@ input, select, textarea {
 	}
 
 		#nav ul {
+			font-family: al-fresco;
+          font-weight: 400;
 			margin-bottom: 0;
 			list-style: none;
 			padding-left: 35px;
@@ -135,7 +137,10 @@ input, select, textarea {
 			font-weight: 600;
 		}
 
+
 		#nav li {
+			font-family: serif;
+          font-weight: 400;
 			display: inline-block;
 			padding-left: 0;
 			padding-right: 0;
@@ -7332,7 +7337,7 @@ input, select, textarea {
 	@media screen and (max-width: 980px) {
 
 		.wrapper.style1 > .inner {
-			padding: 4.5rem 3rem 2.5rem 3rem ;
+			padding: 1.5rem 3rem 2.5rem 3rem ;
 		}
 
 	}
