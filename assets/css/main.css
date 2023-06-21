@@ -4445,7 +4445,7 @@ input, select, textarea {
 		}
 
 		.banner.style5.fullscreen {
-			min-height: 100vh;
+			min-height: 60vh;
 		}
 
 		.banner.style5.content-align-left {
