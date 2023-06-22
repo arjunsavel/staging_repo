@@ -159,6 +159,15 @@ input, select, textarea {
 			margin-top: 10px;
 		}
 
+		#nav li.social {
+			font-weight: 1000;
+			background: #757474;
+			border-radius: 8px;
+			margin-left: 40px;
+			margin-right: 40px;
+			margin-top: 10px;
+		}
+
 		#nav a {
 			-moz-transition: background-color .2s ease-in-out;
 			-webkit-transition: background-color .2s ease-in-out;
@@ -184,7 +193,7 @@ input, select, textarea {
 			padding: 0 1.25em;
 		}
 
-			#nav a:hover {
+			#nav a.do_hover:hover {
 				color: #3d3b3b !important;
 				background: #ffff;
 			}
